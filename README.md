@@ -78,6 +78,7 @@ The gateway application will be available on:
 ---------
 
 Note: I should look at the Steam Remote Play:     
-https://partner.steamgames.com/doc/features/remoteplay   
+- https://partner.steamgames.com/doc/features/remoteplay   
+- https://partner.steamgames.com/doc/features/steam_controller
 If you know who to implement it, feel free to ping me.  
     
