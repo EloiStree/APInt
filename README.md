@@ -41,6 +41,7 @@ Hope you like it,
 * A Raspberry Pi program that hosts a server allowing the sending and receiving of integers outside of tournaments.
 * A variant of the Raspberry Pi program with scheduling and encrypted connections, intended to create tournaments.
 * A Godot application and a Python console app that allow connection via an encrypted key and can be used as a local gateway.
+* A bit of Flask website for Pi for Javascript and developer that want to participate ([📖](https://github.com/EloiStree/apint.io)).
 * A Twitch and Discord bot with encrypted connections through chat, intended to remotely control systems using integers. Yes, from your bed.
 
 ## **Goal**
@@ -60,7 +61,15 @@ The gateway application will be available on:
 * Unity packages: *To be added later*
 
 
+## **Publish Schedule**
 
+* Every **12 July** for a coding tournament during my birthday.
+* Every **last weekend of January** for the Global Game Jam.
+* Every **0-hour game jam** around **November**.
+
+### **Major Event**
+
+* The big one: **12 July 2029**. I want to organize a large tournament for my 40th birthday.
 
 
 
