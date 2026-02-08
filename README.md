@@ -52,15 +52,15 @@ The goal is to create coding tournaments with automatic player pooling based on 
 
 The gateway application will be available on:
 
-* Python: *To be added later*
-* Android: *To be added later*
-* Quest: *To be added later*
-* Steam Frame: *To be added later*
-* Steam: *To be added later*
+* Python: [👷-WIP->](https://github.com/EloiStree/2024_05_11_GateIID_WS_Python/tree/main)
+* Android: *To be added later* [⚙️](https://developer.android.com/distribute/console)
+* Quest: *To be added later* [⚙️](developers.meta.com) 
+* Steam Frame: *To be added later* 
+* Steam: *To be added later* [⚙️](https://partner.steamgames.com/dashboard)
 * Godot packages: *To be added later*
 * Unity packages: *To be added later*
-* Pi-App: *To be added later*
-* Steam Deck Store: *To be added later*
+* Pi-App: *To be added later* [⚙️](https://pi-apps.io/wiki/development/Creating-an-app/)
+* Steam Deck Store: *To be added later* 
 
 
 ## **Publish Schedule**
